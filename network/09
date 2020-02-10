@@ -1,0 +1,5 @@
+# command used: "dig 42.fr +short"
+
+# command output:
+163.172.250.12
+163.172.250.13

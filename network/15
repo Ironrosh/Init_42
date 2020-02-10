@@ -1,0 +1,2 @@
+# We have to add this line: "46.19.122.85 intra.42.fr" to our /etc/hosts file
+# for example we can use this command: echo "46.19.122.85 intra.42.fr" >> /etc/hosts

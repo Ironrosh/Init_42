@@ -1,0 +1,3 @@
+# All DNS adresses that we use are present in the file with the full path /etc/resolv.conf
+# To see its contents we can use following command:
+# cat /etc/resolv.conf

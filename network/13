@@ -1,0 +1,4 @@
+# Run the previous command: ifconfig en0 | grep "inet " | cut -d " " -f 2
+# Then we just use command: host %ip% | cut -d " " -f 5 (%ip% - the address we got from the command in a line above)
+# As a result we got :
+at-n4.21-school.ru.

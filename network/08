@@ -1,0 +1,2 @@
+# 1) Use "dig slash16.org +short" command to get ips of slash16.org and chose one
+# 2) Take one of those adresses and use it with command "whois" (example: whois 13.33.243.100)
