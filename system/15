@@ -1,0 +1,3 @@
+kill $!
+
+#Or just use jobs -l command to find out pid and then just use kill pid

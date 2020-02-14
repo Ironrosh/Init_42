@@ -1,0 +1,2 @@
+# That file has a list of keys, one on each line, that are authorized to log into this account
+~/.ssh/authorized_keys

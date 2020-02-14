@@ -1,0 +1,8 @@
+# First you have to configure your virtual machine in the section called "Port forwarding"
+# Protocol: Tcp
+# HostIP: 127.0.0.1
+# Host Port: 1222
+# GuestIP: get it in your virtual macnine via "ip a"
+# Guest Port: 22
+# After you did this you can ssh into your machine via
+ssh -p 1222 user@localhost
