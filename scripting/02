@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo killall -u $1;
+sudo deluser --remove-home -f $1
