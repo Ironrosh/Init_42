@@ -1,0 +1,5 @@
+# after you've created a new user there a different ways to login as this user.
+# In graphic session (Gnome) you can go to the top right corner, press power button and then choose switch user option
+# after that you choose freshly created user and enter his password.
+# alternatively you can type the command "su new_user" and login as that user with terminal
+# you also can do something like "ssh -p 1222 new_user@hostname"
