@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Initiating self destruct sequence"
+rm -f $0
