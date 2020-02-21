@@ -1,2 +1,2 @@
-useradd %user_name%
+adduser %user_name%
 # You must have root user privileges to do that
